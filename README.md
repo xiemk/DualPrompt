@@ -1,6 +1,6 @@
 # DualPrompt
 
-Official code for the ICLR 2026 paper **"Unlocking the Power of Co-Occurrence in CLIP: A DualPrompt-Driven Method for Training-Free Zero-Shot Multi-Label Classification"**.
+Official code for the ICLR 2026 paper **[Unlocking the Power of Co-Occurrence in CLIP: A DualPrompt-Driven Method for Training-Free Zero-Shot Multi-Label Classification](https://openreview.net/pdf?id=QGXVZ0OPLy)**.
 
 ## Overview
 
