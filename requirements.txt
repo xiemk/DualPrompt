@@ -1,0 +1,10 @@
+numpy==1.26.4
+pillow==10.4.0
+packaging==24.1
+regex==2024.9.11
+ftfy==6.3.1
+tqdm==4.66.5
+scikit-learn==1.5.1
+torch==2.5.1 
+torchvision==0.20.1
+randaugment==1.0.2

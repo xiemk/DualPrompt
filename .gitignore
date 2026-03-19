@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# experiment outputs
+outputs/
+logs/
+*.log
+*.out
+
+# datasets
+/data/
+*.npy
+*.npz
+
+# checkpoints and downloaded model files
+*.pt
+*.pth
+
+# editor
+.vscode/
+.idea/
