@@ -1,18 +1,3 @@
-#!/bin/sh
-
-#$ -S /bin/sh
-#$ -jc gtn-container_g1
-#$ -ac d=none
-#$ -cwd
-#$ -j y
-
-nvidia-smi
-
-cd ..
-
-. "/home/mkxie/anaconda3/etc/profile.d/conda.sh"
-conda activate base 
-
 
 python run.py \
   --data_name coco2014 --data_dir /home/mkxie/code/data \
